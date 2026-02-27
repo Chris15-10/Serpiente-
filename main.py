@@ -11,7 +11,7 @@ game_meta = (
     .with_description("Juego Clasico de la Serpiente")
     .with_release_date("2026-02-27")
     .with_tags(["arcade", "snake", "retro"])
-    .with_group_number(7)
+    .with_group_number(5)
     .with_authors(["Hemberth Garcia", "Eduardo Diaz"])
 )
 
